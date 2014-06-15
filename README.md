@@ -1,4 +1,5 @@
 D-Clock
 =======
 A Verilog D-Clock for DE2-115
-[DE2-115 User Manual](ftp://ftp.altera.com/up/pub/Altera_Material/12.1/Boards/DE2-115/DE2_115_User_Manual.pdf)
+
+[DE2-115 User Manual] (http://www.altera.com/education/univ/materials/boards/de2-115/unv-de2-115-board.html)
